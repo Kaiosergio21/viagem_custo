@@ -16,10 +16,10 @@ if(isNaN(value1) && isNaN(value2)){
     
 
 
-     alert("números invaliddos");
+     alert("nÃºmeros invaliddos");
 }else if(isNaN(value1) || isNaN(value2)){
 
-    alert("números invaliddos");
+    alert("nÃºmeros invaliddos");
      
 }
     
